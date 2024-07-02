@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "9b91",
+      "name": "Bernard Haag"
+    },
+    {
+      "id": "88c9",
+      "name": "Matt Ullrich"
+    }
+  ],
+  "albums": [
+    {
+      "id": "1",
+      "title": "hiking",
+      "userId": 1
+    },
+    {
+      "id": "39c0",
+      "userId": "9b91",
+      "title": "Practical Steel Mouse"
+    },
+    {
+      "id": "4892",
+      "userId": "88c9",
+      "title": "Gorgeous Granite Gloves"
+    },
+    {
+      "id": "1f46",
+      "userId": "88c9",
+      "title": "Handmade Rubber Mouse"
+    }
+  ],
+  "photos": [
+    {
+      "id": "4ddb",
+      "album": "39c0",
+      "url": "https://loremflickr.com/150/150/abstract?lock=49170"
+    }
+  ]
+}
